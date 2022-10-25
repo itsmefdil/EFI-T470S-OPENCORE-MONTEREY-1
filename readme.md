@@ -23,4 +23,4 @@ Not Works :
 
 
 Bug :
-Ketika Sleep , Wifi tidak bisa dihidupkan kembali, harus di restart
+Ketika Sleep , Bluetooth tidak bisa dihidupkan kembali, harus di restart
